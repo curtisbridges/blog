@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Curtis&#39;s Blog</title>
-    <link>http://curtisbridges.com/blog/tags/</link>
+    <link>https://curtisbridges.com/blog/tags/</link>
     <description>Recent content in Tags on Curtis&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Curtis Bridges</copyright>
     <lastBuildDate>Sun, 19 Oct 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://curtisbridges.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://curtisbridges.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ios</title>
-      <link>http://curtisbridges.com/blog/tags/ios/</link>
+      <link>https://curtisbridges.com/blog/tags/ios/</link>
       <pubDate>Sun, 19 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://curtisbridges.com/blog/tags/ios/</guid>
+      <guid>https://curtisbridges.com/blog/tags/ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science</title>
-      <link>http://curtisbridges.com/blog/tags/science/</link>
+      <link>https://curtisbridges.com/blog/tags/science/</link>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://curtisbridges.com/blog/tags/science/</guid>
+      <guid>https://curtisbridges.com/blog/tags/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift</title>
-      <link>http://curtisbridges.com/blog/tags/swift/</link>
+      <link>https://curtisbridges.com/blog/tags/swift/</link>
       <pubDate>Sun, 19 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://curtisbridges.com/blog/tags/swift/</guid>
+      <guid>https://curtisbridges.com/blog/tags/swift/</guid>
       <description></description>
     </item>
     
