@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ios on Curtis&#39;s Blog</title>
-    <link>http://blog.curtisbridges.com/tags/ios/</link>
+    <link>http://curtisbridges.com/blog/tags/ios/</link>
     <description>Recent content in Ios on Curtis&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Curtis Bridges</copyright>
     <lastBuildDate>Sun, 19 Oct 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.curtisbridges.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://curtisbridges.com/blog/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Big Nerd Ranch, Beginning iOS - Day 7</title>
-      <link>http://blog.curtisbridges.com/post/2014/bignerdranch-day7/</link>
+      <link>http://curtisbridges.com/blog/post/2014/bignerdranch-day7/</link>
       <pubDate>Sun, 19 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.curtisbridges.com/post/2014/bignerdranch-day7/</guid>
+      <guid>http://curtisbridges.com/blog/post/2014/bignerdranch-day7/</guid>
       <description>&lt;p&gt;Day 7 was very different from the previous days at the Ranch. It is mostly a catch-all day for miscellaneous topics that came up throughout the week as well as a discussion on tools.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>Big Nerd Ranch, Beginning iOS - Day 6</title>
-      <link>http://blog.curtisbridges.com/post/2014/bignerdranch-day6/</link>
+      <link>http://curtisbridges.com/blog/post/2014/bignerdranch-day6/</link>
       <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.curtisbridges.com/post/2014/bignerdranch-day6/</guid>
+      <guid>http://curtisbridges.com/blog/post/2014/bignerdranch-day6/</guid>
       <description>&lt;p&gt;Day 6 has come and gone and the amount of code and hours involved with this training is starting to take its toll on the level of energy.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -36,10 +36,10 @@
     
     <item>
       <title>Big Nerd Ranch, Beginning iOS - Day 5</title>
-      <link>http://blog.curtisbridges.com/post/2014/bignerdranch-day5/</link>
+      <link>http://curtisbridges.com/blog/post/2014/bignerdranch-day5/</link>
       <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.curtisbridges.com/post/2014/bignerdranch-day5/</guid>
+      <guid>http://curtisbridges.com/blog/post/2014/bignerdranch-day5/</guid>
       <description>&lt;p&gt;Day 5 continued, once again, where the previous day left off – which is to say, more user interface topics.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -47,10 +47,10 @@
     
     <item>
       <title>Big Nerd Ranch, Beginning iOS - Day 4</title>
-      <link>http://blog.curtisbridges.com/post/2014/bignerdranch-day4/</link>
+      <link>http://curtisbridges.com/blog/post/2014/bignerdranch-day4/</link>
       <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.curtisbridges.com/post/2014/bignerdranch-day4/</guid>
+      <guid>http://curtisbridges.com/blog/post/2014/bignerdranch-day4/</guid>
       <description>&lt;p&gt;Coming off yesterday’s high, I was very much looking forward to today.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -58,10 +58,10 @@
     
     <item>
       <title>Big Nerd Ranch, Beginning iOS - Day 3</title>
-      <link>http://blog.curtisbridges.com/post/2014/bignerdranch-day3/</link>
+      <link>http://curtisbridges.com/blog/post/2014/bignerdranch-day3/</link>
       <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.curtisbridges.com/post/2014/bignerdranch-day3/</guid>
+      <guid>http://curtisbridges.com/blog/post/2014/bignerdranch-day3/</guid>
       <description>&lt;p&gt;Day 3 is a key day for this course: this is when we first get into the frameworks and APIs that allow us to actually program for iOS.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;I was not disappointed.&lt;/strong&gt;&lt;/p&gt;
@@ -71,10 +71,10 @@
     
     <item>
       <title>Big Nerd Ranch, Beginning iOS - Day 2</title>
-      <link>http://blog.curtisbridges.com/post/2014/bignerdranch-day2/</link>
+      <link>http://curtisbridges.com/blog/post/2014/bignerdranch-day2/</link>
       <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.curtisbridges.com/post/2014/bignerdranch-day2/</guid>
+      <guid>http://curtisbridges.com/blog/post/2014/bignerdranch-day2/</guid>
       <description>&lt;p&gt;The second day of courses really expands upon the basics learned in the pre-reading and day 1 content.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -82,10 +82,10 @@
     
     <item>
       <title>Big Nerd Ranch, Beginning iOS - Day 1</title>
-      <link>http://blog.curtisbridges.com/post/2014/bignerdranch-day1/</link>
+      <link>http://curtisbridges.com/blog/post/2014/bignerdranch-day1/</link>
       <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.curtisbridges.com/post/2014/bignerdranch-day1/</guid>
+      <guid>http://curtisbridges.com/blog/post/2014/bignerdranch-day1/</guid>
       <description>&lt;p&gt;Day 1 picks up after the pre-reading with more basic programming language constructs common to other languages. Arrays, dictionaries, functions, and enumerations. In addition, Swift adds a few more concepts that I have not used professionally yet – Ooptionals and closures.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -93,10 +93,10 @@
     
     <item>
       <title>Big Nerd Ranch, Beginning iOS - Day 0</title>
-      <link>http://blog.curtisbridges.com/post/2014/bignerdranch-day0/</link>
+      <link>http://curtisbridges.com/blog/post/2014/bignerdranch-day0/</link>
       <pubDate>Sun, 12 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.curtisbridges.com/post/2014/bignerdranch-day0/</guid>
+      <guid>http://curtisbridges.com/blog/post/2014/bignerdranch-day0/</guid>
       <description>&lt;p&gt;This week, I’ll be participating in an offsite training program developed by Big Nerd Ranch outside of Atlanta, Georgia.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
