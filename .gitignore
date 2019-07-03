@@ -1,0 +1,5 @@
+.DS_Store # stupid mac dingleberries
+
+_site # don't bother storing generated site
+.sass-cache # ignore saas crud
+.jekyll-metadata # and ignore jekyll crud
