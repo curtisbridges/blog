@@ -1,9 +1,6 @@
 ---
 title: "First Post"
-date: 2017-07-13
 description: "Opening day of curtisbridges.com"
-tags: []
-draft: false
 ---
 
 This is the first post of my new site. I'm looking to post thoughts, opinions, and links from around the web, book reviews, my current projects from GitHub and my online portfolio.
