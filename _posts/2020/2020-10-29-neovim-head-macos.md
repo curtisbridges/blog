@@ -1,5 +1,6 @@
 ---
 title: "Installing neovim 0.5.0 via Homebrew on macOS"
+published: false
 excerpt_separator: "<!--more-->"
 categories:
   - homebrew
