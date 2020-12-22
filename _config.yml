@@ -39,7 +39,6 @@ social:
   name:  Curtis Bridges # If the user or organization name differs from the site's name
   links:
     - "https://twitter.com/curtisbridges"
-    - "https://instagram.com/curtisbridges"
     - "https://www.linkedin.com/in/curtisbridges/"
 
 include:
@@ -92,9 +91,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/curtisbridges"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/curtisbridges/"
 
 defaults:
   # _posts
