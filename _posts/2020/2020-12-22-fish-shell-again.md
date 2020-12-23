@@ -40,3 +40,6 @@ This is mostly for my future self to reference, but just in case anyone else fin
 2. Fish is not POSIX compliant; this was known before installing. It is just something to be aware of. Use `/bin/sh` for most scripts anyway.
 3. Does not support escaping commands. I have a few commands that I like more modern, feature-rich versions of (cat --> bat, top --> htop, vim --> nvim) but there are times where you want the plain old version executed. In zsh, I can escape the command by prepending backslash: `\cat .zshrc`. Fish won't recognize that syntax so I have to edit my abbreviation replacement.
 
+## Follow-Up
+1. All terminals (not just Terminal.app) were spawning zombie bash shells (on macOS) and sh (on Pop! OS)
+2. Tracking down the cullprit: omf plugin for fasd. Removing it fixed the per-command-zombie process!
