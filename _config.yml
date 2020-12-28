@@ -14,12 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Capturing the Details
+description: The personal blog of Curtis Bridges, software developer, photographer, father and husband.
 email: curtis@curtisbridges.com
-description: >- # this means to ignore newlines until "baseurl:"
-  The personal blog of Curtis Bridges, software developer, photographer, father and husband.
 twitter_username: curtisbridges
 github_username: curtisbridges
-minimal_mistakes_skin: default
+#minimal_mistakes_skin: default
+
+# TeXt theme settings
+text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+url: https://curtisbridges.com
+baseurl: /blog
 search: true
 
 # Build settings
