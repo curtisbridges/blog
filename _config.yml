@@ -21,16 +21,21 @@ github_username: curtisbridges
 #minimal_mistakes_skin: default
 
 # TeXt theme settings
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url: https://curtisbridges.com
+#text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+#highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+
+domain_name: https://curtisbridges.com
+#url: https://curtisbridges.com
+url: ""
 baseurl: /blog
+author: "Curtis Bridges"
 search: true
 
 # Build settings
 markdown: kramdown
 #remote_theme: mmistakes/minimal-mistakes
-remote_theme: kitian616/jekyll-TeXt-theme
+#remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: rosario/kasper
 
 # Outputting
 permalink: /:year/:title/
