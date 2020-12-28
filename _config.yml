@@ -24,18 +24,18 @@ github_username: curtisbridges
 #text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 #highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 
-domain_name: https://curtisbridges.com
-#url: https://curtisbridges.com
-url: ""
+domain_name: "https://curtisbridges.com"
+url: https://curtisbridges.com
 baseurl: /blog
 author: "Curtis Bridges"
 search: true
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-minimal
 #remote_theme: mmistakes/minimal-mistakes
 #remote_theme: kitian616/jekyll-TeXt-theme
-remote_theme: rosario/kasper
+#remote_theme: rosario/kasper
 
 # Outputting
 permalink: /:year/:title/
@@ -127,5 +127,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-theme: jekyll-theme-minimal
