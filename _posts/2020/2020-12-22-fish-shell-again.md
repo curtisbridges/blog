@@ -1,5 +1,6 @@
 ---
 title: "Fish shell via Homebrew on macOS"
+layout: article
 excerpt_separator: "<!--more-->"
 categories:
   - homebrew
